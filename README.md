@@ -5,10 +5,10 @@ Simple code using 3 LEDS on Pi-Stop to quickly test if th GPIO pins are working 
 
 Attach the Pi-Stop as follows
 
-GND - GND (Pin 9)
-Green - BCM 17 (Pin 11)
-Amber - BCM 27 (Pin 13)
-Red - BCM 22 (Pin 15)
+GND - GND (Pin 6)
+Green - BCM 14 (Pin 8)
+Amber - BCM 15 (Pin 10)
+Red - BCM 18 (Pin 12)
 
 All these 4 pins are together so the Pi-Stop will slot right on.
 
